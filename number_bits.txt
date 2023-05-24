@@ -1,0 +1,36 @@
+{
+  "Non_accumulative": {
+    "Vg_X": 5,
+    "Vg_Y": 7,
+    "vL_X": 5,
+    "vL_Y": 7,
+    "Iin_X": 6,
+    "Iin_Y": 6,
+    "il_fb_X": 6,
+    "il_fb_Y": 9,
+    "ir_X": 3,
+    "ir_Y": 9,
+    "iC_X": 5,
+    "iC_Y": 9,
+    "Vout_X": 5,
+    "Vout_Y": 7,
+    "Vout_fb_X": 5,
+    "Vout_fb_Y": 7
+  },
+  "Accumulative": {
+    "svLdtL_X": -5,
+    "svLdtL_Y": 19,
+    "il_X": 6,
+    "il_Y": 19,
+    "siCdtC_X": -8,
+    "siCdtC_Y": 20,
+    "VoutAux_X": 5,
+    "VoutAux_Y": 20
+  },
+  "Constants": {
+    "dtL_X": -10,
+    "dtL_Y": 22,
+    "dtC_X": -13,
+    "dtC_Y": 25
+  }
+} 
